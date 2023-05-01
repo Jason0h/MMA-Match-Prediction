@@ -1,5 +1,5 @@
 # MMA-Match-Prediction
-* It is recommended that these notebooks are run with Google Colab and within the Google Drive file system
+* It is recommended that these notebooks are run with Google Colab within the Google Drive file system
 ### Web Scraping Component
 * UFCWebScraping.ipynb gathers match information from http://ufcstats.com
 * bout_statistics.csv contains the results of the scraper
